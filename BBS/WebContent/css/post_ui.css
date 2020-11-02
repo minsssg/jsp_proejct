@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+div#side_left {
+	width: 700px;
+	height: 750px;
+	float: left;
+	margin: 5px;
+}
+
+#side_rigth {
+	width: 270px;
+	height: 800px;
+	float: left;
+	margin: 5px;
+	background: #DEE1E8;
+	border-radius: 2em;
+}
+
+#photo_box {
+	width: 45%;
+	height: 210px;
+	float: left;
+	margin: 10px;
+}
+
+#profile_box {
+	width: 95%;
+	height: 230px;
+	float: left;
+	margin: 10px;
+}
+
+#content_box {
+	width: 90%;
+	height: 50%;
+	margin: 20px;
+	float: left;
+}
+
+.photo {
+	width: 200px;
+	height: 200px;
+}
+
+.profile {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+#srcb_container {
+	padding-bottom: 12px;
+}
+#Search_Box {
+	background-color: #fff;
+	font-family: Roboto;
+	font-weight: 300;
+	font-size: 20px;
+	padding: 0 11px 0 11px;
+	text-overflow: ellipsis;
+	width: 400px;
+	height: 30px;
+}
+
+#Search_Box: focus {
+	border-color: #;
+}
+#Box_label {
+	color: #fff;
+	background-color: lightpink;
+	font-size: 20px;
+	font-weight: 300;
+	padding: 0px 12px;
+}

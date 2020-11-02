@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+.input-group-btn input[type="file"] {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: 0;
+	top: 0;
+	opacity: 0;
+}
+
+table, td {
+	text-align: center;
+	border: 1px solid black;
+}
+
+td {
+	width: 130px;
+	height: 97px;
+	padding: 5px;
+	border-capcity: 5px;
+}
+
+.modal-body {
+	display: flex;
+}
+
+img {
+	max-width: 100%;
+	flex: currentHeight display: inline-block;
+}
+
+input[type="file"] {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: 0;
+	top: 0;
+	opacity: 0;
+}
